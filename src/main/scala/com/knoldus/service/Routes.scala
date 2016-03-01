@@ -1,0 +1,53 @@
+package com.knoldus.service
+
+import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+
+import akka.http.scaladsl.server.Directives._
+import com.knoldus.repo.repo.{Student, StudentRepository}
+import spray.json.DefaultJsonProtocol
+
+
+trait Routes extends SprayJsonSupport with DefaultJsonProtocol with CORSSupport {
+  studentRepo: StudentRepository =>
+
+  implicit val studentFormat = jsonFormat3(Student)
+
+  val route = corsHandler {
+
+    path("student" / IntNumber) { id =>
+      get {
+        complete {
+          getById(id)
+        }
+      }
+    } ~
+      path("student" / "all") {
+      post {
+        complete {
+          getAll()
+        }
+      }
+    } ~
+      path("student" / "save") {
+        post {
+          entity(as[Student]) { student =>
+
+            complete {
+              create(student)
+            }
+          }
+        }
+      }
+  }
+
+}
+
+
+/*
+ complete{
+          Future("""{"id": "232434", "name": "sky"}""").map{result => HttpResponse(entity =result)
+          }
+
+
+ */
+

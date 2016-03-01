@@ -1,0 +1,538 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/StudentOperation.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/Student$.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/Student.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/StudentRepository.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$addAccessControlHeaders$1.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$com$knoldus$service$CORSSupport$$preflightRequestHandler$1$$anonfun$apply$1.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$com$knoldus$service$CORSSupport$$preflightRequestHandler$1.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$corsHandler$1.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$class.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/ConnectToDatabase$.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/ConnectToDatabase.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/FakeRepo$class.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/FakeRepo.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/HttpService$.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/HttpService$delayedInit$body.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/HttpService.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$1$$anonfun$apply$1.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$1.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$2$$anonfun$apply$3$$anonfun$apply$4.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$2$$anonfun$apply$3.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$2.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3$$anonfun$apply$5$$anonfun$apply$6.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3$$anonfun$apply$5.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$class.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes.class
+binary dependencies:
+24 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> /home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/ConnectToDatabase.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> /home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-2.0.3.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-2.0.3.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> /home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.2.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-2.0.3.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-2.0.3.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-2.0.3.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/StudentOperation$.class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-2.0.3.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-2.0.3.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+3 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> com.knoldus.repo.repo.StudentOperation
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> com.knoldus.repo.repo.Student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> com.knoldus.repo.repo.Student$
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> com.knoldus.repo.repo.StudentRepository
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> com.knoldus.service.CORSSupport
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> com.knoldus.service.CORSSupport$$anonfun$addAccessControlHeaders$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> com.knoldus.service.CORSSupport$$anonfun$com$knoldus$service$CORSSupport$$preflightRequestHandler$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> com.knoldus.service.CORSSupport$$anonfun$com$knoldus$service$CORSSupport$$preflightRequestHandler$1$$anonfun$apply$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> com.knoldus.service.CORSSupport$$anonfun$corsHandler$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> com.knoldus.service.CORSSupport$class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> com.knoldus.service.ConnectToDatabase
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> com.knoldus.service.ConnectToDatabase$
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> com.knoldus.service.FakeRepo
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> com.knoldus.service.FakeRepo$class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> com.knoldus.service.HttpService
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> com.knoldus.service.HttpService$
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> com.knoldus.service.HttpService$delayedInit$body
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$1$$anonfun$apply$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$2
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$2$$anonfun$apply$3
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$2$$anonfun$apply$3$$anonfun$apply$4
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$3
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$3$$anonfun$apply$5
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$3$$anonfun$apply$5$$anonfun$apply$6
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$$anonfun$3$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com.knoldus.service.Routes$class
+used names:
+283 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> ::
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> <init>
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> AnyRef
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> Boolean
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> ConnectToDatabase
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> Connection
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> Int
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> List
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> Nil
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> Predef
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> PreparedStatement
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> ResultSet
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> String
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> Student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> StudentOperation
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> close
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> com
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> connect
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> connection
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> email
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> executeQuery
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> executeUpdate
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> getInt
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> getString
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> id
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> immutable
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> java
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> knoldus
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> list
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> name
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> next
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> number
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> package
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> prepareStatement
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> query
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> readList
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> repo
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> resultSet
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> service
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> setInt
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> setString
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> sql
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> &&
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> <init>
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> ==
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> AbstractFunction3
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> AnyRef
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> Int
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> List
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> None
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> Predef
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> Product
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> ScalaRunTime
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> Serializable
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> Statics
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> String
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> Student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> _toString
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> anyHash
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> asInstanceOf
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> com
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> email
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> eq
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> finalizeHash
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> id
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> isInstanceOf
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> knoldus
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> mix
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> name
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> package
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> repo
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> runtime
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> toString
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> typedProductIterator
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> ||
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> *
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> +:
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> ==
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Access-Control-Allow-Credentials
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Access-Control-Allow-Headers
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Access-Control-Allow-Methods
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Access-Control-Allow-Origin
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> AnyRef
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> CORSSupport
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> ConfigFactory
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> DELETE
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Directive
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Directive0
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Directives
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> GET
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> HttpMethods
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> HttpOrigin
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> HttpResponse
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Marshaller
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> OPTIONS
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> POST
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> PUT
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Route
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> Seq
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> StatusCode
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> ToResponseMarshallable
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> addAccessControlHeaders
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> addByNameNullaryApply
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> akka
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> allowedOriginHeader
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> apply
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> canBuildFrom
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> com
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> complete
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> config
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> enhanceRouteWithConcatenation
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> fromResponse
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> getString
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> headers
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> http
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> immutable
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> int2StatusCode
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> knoldus
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> load
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> mapResponseHeaders
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> marshalling
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> model
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> options
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> package
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> preflightRequestHandler
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> r
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> sAllowedOrigin
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> scaladsl
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> server
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> service
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> typesafe
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> withHeaders
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> ~
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> <init>
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> AnyRef
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> Class
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> ConnectToDatabase
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> Connection
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> DriverManager
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> Predef
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> String
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> com
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> connection
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> driver
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> forName
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> getConnection
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> java
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> knoldus
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> lang
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> password
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> path
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> service
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> sql
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> username
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> <init>
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> ActorMaterializer
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> ActorSystem
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> App
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> Boolean
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> FakeRepo
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> Http
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> HttpService
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> Int
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> List
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> RouteResult
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> Routes
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> RoutingLog
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> RoutingSettings
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> Student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> StudentOperation
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> StudentRepository
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> actor
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> add
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> akka
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> apply
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> bindAndHandle
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> com
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> default
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> fromActorSystem
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> http
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> id
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> immutable
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> isSave
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> knoldus
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> list
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> materializer
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> obj
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> package
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> qual$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> read
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> readbyId
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> repo
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> route
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> route2HandlerFlow
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> scala
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> scaladsl
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> server
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> service
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> stream
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> system
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$10
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$11
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$12
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$13
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$2
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$3
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$4
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$5
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$6
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$7
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$8
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> x$9
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> /
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> ApplyConverter
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> CORSSupport
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> ClassManifestFactory
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> DefaultJsonProtocol
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> Directive
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> Directives
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> IntJsonFormat
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> IntNumber
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> Join
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> Marshaller
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> Routes
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> SprayJsonSupport
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> StringJsonFormat
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> Student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> StudentRepository
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> ToResponseMarshallable
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> TupleOps
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> Unmarshaller
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> addByNameNullaryApply
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> addDirectiveApply
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> akka
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> apply
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> as
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> classType
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> com
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> complete
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> corsHandler
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> create
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> enhanceRouteWithConcatenation
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> entity
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> get
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> getAll
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> getById
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> hac1
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> http
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> id
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> join0P
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> json
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> jsonFormat3
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> knoldus
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> liftMarshaller
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> listFormat
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> marshallers
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> marshalling
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> messageUnmarshallerFromEntityUnmarshaller
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> path
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> post
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> reflect
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> repo
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> route
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> scaladsl
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> segmentStringToPathMatcher
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> server
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> service
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> spray
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> sprayJsonMarshaller
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> sprayJsonUnmarshaller
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> sprayjson
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> student
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> studentFormat
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> unmarshalling
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> util
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> ~
+product stamps:
+29 items
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/Student$.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/Student.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/StudentOperation.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/StudentRepository.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$addAccessControlHeaders$1.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$com$knoldus$service$CORSSupport$$preflightRequestHandler$1$$anonfun$apply$1.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$com$knoldus$service$CORSSupport$$preflightRequestHandler$1.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$$anonfun$corsHandler$1.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport$class.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/CORSSupport.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/ConnectToDatabase$.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/ConnectToDatabase.class -> lastModified(1456498995000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/FakeRepo$class.class -> lastModified(1456820816000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/FakeRepo.class -> lastModified(1456820816000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/HttpService$.class -> lastModified(1456820816000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/HttpService$delayedInit$body.class -> lastModified(1456820816000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/HttpService.class -> lastModified(1456820816000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$1$$anonfun$apply$1.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$1.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$2$$anonfun$apply$3.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$2.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3$$anonfun$apply$5.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$$anonfun$3.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes$class.class -> lastModified(1456498996000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/Routes.class -> lastModified(1456498996000)
+source stamps:
+6 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> hash(9474e3dbb1ce74dbeb91bd5960acaade30166c31)
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> hash(472f4b47f1f1aaac1c6df0f30a7b79d63706c290)
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> hash(8baa9daa7d15958ba159a4b522c2236ba987f73f)
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> hash(157553f5a2ffdb610bacdcb19ec1298eef7500dc)
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> hash(a9ade4bacc9e577979595fb54c89714032803d81)
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> hash(4469d488b78b993e59c9e5df82388b420f23fd4c)
+binary stamps:
+11 items
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.2.jar -> lastModified(1455661167000)
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-2.0.3.jar -> lastModified(1453825780000)
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-2.0.3.jar -> lastModified(1453825779000)
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-2.0.3.jar -> lastModified(1453825902000)
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-2.0.3.jar -> lastModified(1453825542000)
+/home/akash/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099960000)
+/home/akash/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar -> lastModified(1430920860000)
+/home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/StudentOperation$.class -> lastModified(1456498936000)
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/ConnectToDatabase.class -> lastModified(1456498995000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1456307559000)
+class names:
+11 items
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.2.jar -> akka.event.LoggingAdapter
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-2.0.3.jar -> akka.http.scaladsl.HttpExt
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-2.0.3.jar -> akka.http.scaladsl.server.ExceptionHandler
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-2.0.3.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+/home/akash/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-2.0.3.jar -> akka.stream.ActorMaterializer
+/home/akash/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+/home/akash/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar -> spray.json.DefaultJsonProtocol
+/home/akash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/repo/repo/StudentOperation$.class -> com.knoldus.repo.repo.StudentOperation$
+/home/akash/Mix Data/rest-api/target/scala-2.11/classes/com/knoldus/service/ConnectToDatabase.class -> com.knoldus.service.ConnectToDatabase
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDbNkuVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAxEHAp0AAZub3RpZnlzcQB+AAx39tP9dAAEcmVhZHNxAH4ADDv2WF90AAR3YWl0c3EAfgAMSb0HI3QADSRhc0luc3RhbmNlT2ZzcQB+AAy1/CK3dAAGZXF1YWxzc3EAfgAM4eYgy3QADGFzSW5zdGFuY2VPZnNxAH4ADH6m7uV0AAxzeW5jaHJvbml6ZWRzcQB+AAzi161HdAAQU3R1ZGVudE9wZXJhdGlvbnNxAH4ADGGt88J0AAhyZWFkYnlJZHNxAH4ADAlmLCp0AA0kaXNJbnN0YW5jZU9mc3EAfgAM+H46GnQACW5vdGlmeUFsbHNxAH4ADPKIhn10AAxpc0luc3RhbmNlT2ZzcQB+AAy61hWYdAAGPGluaXQ+c3EAfgAMqteJbnQAAj09c3EAfgAMtrVbpXQABWNsb25lc3EAfgAM7lMSLXQACHRvU3RyaW5nc3EAfgAMzpIkTXQAAiE9c3EAfgAMSQkT4nQACGdldENsYXNzc3EAfgAM9Zh9nHQAAm5lc3EAfgAMLGEBbHQAA2FkZHNxAH4ADDEx+PF0AAJlcXNxAH4ADLctiCd0AAIjI3NxAH4ADObvQnl0AAhmaW5hbGl6ZXNxAH4ADImwh5B0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACZjb20ua25vbGR1cy5yZXBvLnJlcG8uU3R1ZGVudE9wZXJhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXwBwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABVjb20ua25vbGR1cy5yZXBvLnJlcG9zcQB+AJV0AANjb21zcQB+AJV0ABBjb20ua25vbGR1cy5yZXBvc3EAfgCVdAALY29tLmtub2xkdXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVMeGtT+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANy9ob21lL2FrYXNoL01peCBEYXRhL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSUdOPbsc502+uRvVlgrKreMBZsMQ==
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAHNqR4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIwkJLt0AAZub3RpZnlzcQB+AAw7rcg9dAAHZ2V0QnlJZHNxAH4ADGgCYuJ0AARuYW1lc3EAfgAMtFVCUXQABHdhaXRzcQB+AAwFZlXpdAAOY29weSRkZWZhdWx0JDJzcQB+AAwTmDj6dAANJGFzSW5zdGFuY2VPZnNxAH4ADNsNwTZ0AAVlbWFpbHNxAH4ADMVB8DZ0AAZnZXRBbGxzcQB+AAzskAsWdAAMcHJvZHVjdEFyaXR5c3EAfgAMFxPM3HQABmVxdWFsc3NxAH4ADMunUtt0AAxhc0luc3RhbmNlT2ZzcQB+AAx3t+zWdAAMc3luY2hyb25pemVkc3EAfgAM0OMlAnQADSRpc0luc3RhbmNlT2ZzcQB+AAzUwl0NdAAGY3JlYXRlc3EAfgAMgCiokXQACGNhbkVxdWFsc3EAfgAM77jDrHQADXByb2R1Y3RQcmVmaXhzcQB+AAzJ5k2ndAAJbm90aWZ5QWxsc3EAfgAM/RbdnXQADGlzSW5zdGFuY2VPZnNxAH4ADDifGO50AAY8aW5pdD5zcQB+AAw3j5IydAACaWRzcQB+AAxim8aPdAACPT1zcQB+AAwLnSqodAAFY2xvbmVzcQB+AAw8NKRzdAAOY29weSRkZWZhdWx0JDNzcQB+AAzOQvofdAAEY29weXNxAH4ADIIvmBd0AAh0b1N0cmluZ3NxAH4ADBSm+Zp0AAIhPXNxAH4ADPZCuaR0AAhnZXRDbGFzc3NxAH4ADIPwjrF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJuT/nJ0AAJuZXNxAH4ADN1zo7J0AAdTdHVkZW50c3EAfgAMOwPP6HQAAmVxc3EAfgAMJ51pNHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADP5zInZ0ABFTdHVkZW50UmVwb3NpdG9yeXNxAH4ADAq8Dol0AAIjI3NxAH4ADPu22Sh0AAhmaW5hbGl6ZXNxAH4ADNl3VF50AA5wcm9kdWN0RWxlbWVudHNxAH4ADJRVPaR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ACdjb20ua25vbGR1cy5yZXBvLnJlcG8uU3R1ZGVudFJlcG9zaXRvcnl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AeQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgCAc3EAfgB5AXVxAH4AXAAAAABwc3EAfgB5AXVxAH4AXAAAAABwc3EAfgB5AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Af3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Af3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AmHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmXNxAH4AjHQAA0FueXNxAH4AkHNxAH4Ak3VxAH4AlgAAAAJzcQB+AJh0AAVzY2FsYXEAfgCfcHBzcQB+AF5xAH4Aa3VxAH4AbAAAAABzcQB+AG4AdAAdY29tLmtub2xkdXMucmVwby5yZXBvLlN0dWRlbnR1cQB+AHEAAAAAfnEAfgBzdAAIQ2xhc3NEZWZ1cQB+AHcAAAAAc3EAfgB5AXEAfgCBcHNxAH4AeQFzcQB+AINzcQB+AHkBdXEAfgBcAAAAAHBzcQB+AHkBdXEAfgBcAAAAAHBzcQB+AHkBdXEAfgCKAAAABnNxAH4AjHQADFNlcmlhbGl6YWJsZXNxAH4AkHNxAH4Ak3VxAH4AlgAAAAJzcQB+AJhxAH4ApnEAfgCfc3EAfgCMcQB+ALlzcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYcQB+AJtzcQB+AJh0AAJpb3EAfgCfc3EAfgCMdAAHUHJvZHVjdHEAfgC6c3EAfgCMdAAGRXF1YWxzcQB+ALpzcQB+AIxxAH4Aj3NxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJhxAH4Am3NxAH4AmHEAfgCdcQB+AJ9zcQB+AIxxAH4AoXEAfgC6cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABVjb20ua25vbGR1cy5yZXBvLnJlcG9zcQB+ANJ0AANjb21zcQB+ANJ0ABBjb20ua25vbGR1cy5yZXBvc3EAfgDSdAALY29tLmtub2xkdXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVMeGtT+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANy9ob21lL2FrYXNoL01peCBEYXRhL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRHL0tH8fGqrBxt8PMKe3nWNwbCkA==
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCMIcI+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAiXQvF0AAZub3RpZnlzcQB+AAyqYVLhdAAEd2FpdHNxAH4ADAbCkXx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMclbI2XQABmVxdWFsc3NxAH4ADG8kGhx0AAtDT1JTU3VwcG9ydHNxAH4ADGPtT9R0AAxhc0luc3RhbmNlT2ZzcQB+AAxgRdN5dAAMc3luY2hyb25pemVkc3EAfgAMBAUzQnQAE2FsbG93ZWRPcmlnaW5IZWFkZXJzcQB+AAzQSD+jdAANJGlzSW5zdGFuY2VPZnNxAH4ADGfboTd0AAtjb3JzSGFuZGxlcnNxAH4ADCQQjoB0AAlub3RpZnlBbGxzcQB+AAwutQCzdAAMaXNJbnN0YW5jZU9mc3EAfgAMESxTPHQAAj09c3EAfgAMue+TeHQABWNsb25lc3EAfgAMUe6c33QABiRpbml0JHNxAH4ADEZe72t0ABdhZGRBY2Nlc3NDb250cm9sSGVhZGVyc3NxAH4ADNERwXF0AAh0b1N0cmluZ3NxAH4ADAUnPxx0AAIhPXNxAH4ADMacHct0AAhnZXRDbGFzc3NxAH4ADNpsR4t0ABdwcmVmbGlnaHRSZXF1ZXN0SGFuZGxlcnNxAH4ADEczkdF0AAJuZXNxAH4ADAMKGhN0AAJlcXNxAH4ADIzXUtt0AAIjI3NxAH4ADMKZe/N0AAhmaW5hbGl6ZXNxAH4ADJNvZN10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0AB9jb20ua25vbGR1cy5zZXJ2aWNlLkNPUlNTdXBwb3J0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATY29tLmtub2xkdXMuc2VydmljZXNxAH4AkXQAA2NvbXNxAH4AkXQAC2NvbS5rbm9sZHVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTHhrU/nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADcvaG9tZS9ha2FzaC9NaXggRGF0YS9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUi6qdqn0VlYuhWaS1IsIja6mH9z8=
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA66ZAeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJMsL2p0AAZub3RpZnlzcQB+AAwk7kUcdAAEd2FpdHNxAH4ADO2ZMOV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMZRIF8XQAB2Nvbm5lY3RzcQB+AAz5aL/HdAAGZXF1YWxzc3EAfgAM9LdpcXQADGFzSW5zdGFuY2VPZnNxAH4ADBW/nGx0AAxzeW5jaHJvbml6ZWRzcQB+AAzKzya+dAANJGlzSW5zdGFuY2VPZnNxAH4ADCht18h0AAlub3RpZnlBbGxzcQB+AAzXNj/PdAAMaXNJbnN0YW5jZU9mc3EAfgAMbIXfRXQAEUNvbm5lY3RUb0RhdGFiYXNlc3EAfgAMrz8EQ3QAAj09c3EAfgAMY3oqnXQABWNsb25lc3EAfgAMKgMIqnQACHRvU3RyaW5nc3EAfgAMas0DHnQAAiE9c3EAfgAMvRXOgHQACGdldENsYXNzc3EAfgAMr/ExCHQAAm5lc3EAfgAMIu6cb3QAAmVxc3EAfgAMKnRuJXQAAiMjc3EAfgAMv8bPB3QACGZpbmFsaXplc3EAfgAMwbe933QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJWNvbS5rbm9sZHVzLnNlcnZpY2UuQ29ubmVjdFRvRGF0YWJhc2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBaeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZAHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBic3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAE2NvbS5rbm9sZHVzLnNlcnZpY2VzcQB+AI90AANjb21zcQB+AI90AAtjb20ua25vbGR1c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUx4a1P51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA3L2hvbWUvYWthc2gvTWl4IERhdGEvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBV1U/Wi/9thC6zcsZ7BKY7vdQDc
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCZl8kIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAwc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwXC7VOHQADlVuaXRKc29uRm9ybWF0c3EAfgALuuKmtHQAHnNwcmF5SnNvblVubWFyc2hhbGxlckNvbnZlcnRlcnNxAH4ACzQLrLV0AApsaXN0Rm9ybWF0c3EAfgAL82pdtXQAGHNwcmF5SnNWYWx1ZVVubWFyc2hhbGxlcnNxAH4ACz2tLll0AAx2ZWN0b3JGb3JtYXRzcQB+AAvbZrl3dAAGc3lzdGVtc3EAfgALdDbNYXQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4ACxppsZZ0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC/+Jiil0AA1zdHVkZW50Rm9ybWF0c3EAfgALt3+pvXQACXNldEZvcm1hdHNxAH4AC9/+zfd0ABFSb290SnNBcnJheUZvcm1hdHNxAH4AC9rD/910ABVzcHJheUpzb25Vbm1hcnNoYWxsZXJzcQB+AAs7Gq+gdAANSnNWYWx1ZUZvcm1hdHNxAH4AC5ZhFgt0AA5Mb25nSnNvbkZvcm1hdHNxAH4AC0DK7qF0AAx0dXBsZTFGb3JtYXRzcQB+AAtN9RKqdAAQaW5kZXhlZFNlcUZvcm1hdHNxAH4AC7TKlLR0AAxvcHRpb25Gb3JtYXRzcQB+AAvWCfSYdAAPbGluZWFyU2VxRm9ybWF0c3EAfgALIMVC4XQAEFN5bWJvbEpzb25Gb3JtYXRzcQB+AAvJga1tdAAcc3ByYXlKc29uTWFyc2hhbGxlckNvbnZlcnRlcnNxAH4AC0gc98B0AAx0dXBsZTVGb3JtYXRzcQB+AAue9WecdAAMdHVwbGUzRm9ybWF0c3EAfgALBTKU8XQAEmltbUxpbmVhclNlcUZvcm1hdHNxAH4AC/aafnx0AAx0dXBsZTdGb3JtYXRzcQB+AAveujBBdAATc3ByYXlKc29uTWFyc2hhbGxlcnNxAH4AC45G/yB0ABZzcHJheUpzVmFsdWVNYXJzaGFsbGVyc3EAfgALgPCHwHQADGltbVNldEZvcm1hdHNxAH4ACzgDBdV0AAxlaXRoZXJGb3JtYXRzcQB+AAsZ9jZRdAAOQ2hhckpzb25Gb3JtYXRzcQB+AAuB+xDodAAUQmlnRGVjaW1hbEpzb25Gb3JtYXRzcQB+AAs71pcmdAAPU2hvcnRKc29uRm9ybWF0c3EAfgALGkU6lnQADHR1cGxlNkZvcm1hdHNxAH4AC6ygVFZ0ABBTdHJpbmdKc29uRm9ybWF0c3EAfgALG3TU/XQAC2FycmF5Rm9ybWF0c3EAfgAL13jnl3QAEWltbUl0ZXJhYmxlRm9ybWF0c3EAfgALCYD3H3QADkJ5dGVKc29uRm9ybWF0c3EAfgAL3ktWLnQADG1hdGVyaWFsaXplcnNxAH4AC3a7dX90AAx0dXBsZTJGb3JtYXRzcQB+AAuoxm1cdAATaW1tSW5kZXhlZFNlcUZvcm1hdHNxAH4ACwr0hzh0AAxpbW1TZXFGb3JtYXRzcQB+AAueHDqMdAAMdHVwbGU0Rm9ybWF0c3EAfgALDRPycXQAD0Zsb2F0SnNvbkZvcm1hdHNxAH4AC7QYBcN0AA5pdGVyYWJsZUZvcm1hdHNxAH4AC4T97290AA1JbnRKc29uRm9ybWF0c3EAfgALnen5+XQAEERvdWJsZUpzb25Gb3JtYXRzcQB+AAs2lzcFdAAJbWFwRm9ybWF0c3EAfgALOlA/83QACXNlcUZvcm1hdHNxAH4AC7H0Pyp0ABBCaWdJbnRKc29uRm9ybWF0dXEAfgAJAAAATnNxAH4AC0E5CCd0AAZub3RpZnlzcQB+AAs8Jd4/dAAEcmVhZHNxAH4AC8CpF2x0AAlmcm9tRmllbGRzcQB+AAvLbH3xdAALanNvbkZvcm1hdDlzcQB+AAs1fE2ZdAAManNvbkZvcm1hdDE2c3EAfgALrYnmd3QAB2dldEJ5SWRzcQB+AAuf5L+LdAAManNvbkZvcm1hdDIwc3EAfgAL79It5XQABHdhaXRzcQB+AAv8gNxedAAGdmlhU2Vxc3EAfgALd8gDOHQACmxhenlGb3JtYXRzcQB+AAv9hWdEdAANJGFzSW5zdGFuY2VPZnNxAH4AC0vIo510AAxqc29uRm9ybWF0MTJzcQB+AAvNOVQFdAAManNvbkZvcm1hdDEzc3EAfgALMqFv/HQAC2pzb25Gb3JtYXQyc3EAfgALY3tEy3QABmdldEFsbHNxAH4AC10Tlk50AAZlcXVhbHNzcQB+AAu+YYqbdAALanNvbkZvcm1hdDZzcQB+AAvSEGq3dAAgc3ByYXlKc1ZhbHVlTWFyc2hhbGxlciRkZWZhdWx0JDFzcQB+AAvd2xECdAAMYXNJbnN0YW5jZU9mc3EAfgALHmXHeXQADmV4ZWN1dGlvblN0YXJ0c3EAfgALrGuYA3QADGpzb25Gb3JtYXQxNXNxAH4AC9qdc6F0AAJKRnNxAH4AC/Q+KW90AAhGYWtlUmVwb3NxAH4AC6z4STN0AAxzeW5jaHJvbml6ZWRzcQB+AAtXoNxCdAATYWxsb3dlZE9yaWdpbkhlYWRlcnNxAH4ACy2UMM50AAxqc29uRm9ybWF0MTFzcQB+AAu4ek0gdAANJGlzSW5zdGFuY2VPZnNxAH4ACw81QU90AAtqc29uRm9ybWF0NXNxAH4AC+Seg4V0AAZjcmVhdGVzcQB+AAvG/DkddAAManNvbkZvcm1hdDIxc3EAfgALp5p4FnQAFHByb2R1Y3RFbGVtZW50MkZpZWxkc3EAfgAL9YnmN3QACnJvb3RGb3JtYXRzcQB+AAud+UDDdAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgALsmoarnQADGpzb25Gb3JtYXQxNHNxAH4ACyNg+iF0AANvYmpzcQB+AAuGUZeYdAALY29yc0hhbmRsZXJzcQB+AAvZCaVhdAALanNvbkZvcm1hdDFzcQB+AAvoKFrGdAAOcm9vdEpzb25Gb3JtYXRzcQB+AAs3N7gfdAAEbWFpbnNxAH4ACy3mNMF0AAxqc29uRm9ybWF0MTlzcQB+AAtOJdJtdAAJbm90aWZ5QWxsc3EAfgALe4F1unQACGRlbGVnYXRlc3EAfgALa88c8HQADGlzSW5zdGFuY2VPZnNxAH4AC3no6yp0AAY8aW5pdD5zcQB+AAsAa2RCdAAIcmVhZFNvbWVzcQB+AAuFzyVwdAALanNvbkZvcm1hdDRzcQB+AAv6rctgdAACPT1zcQB+AAvHgdxAdAAdc3ByYXlKc29uTWFyc2hhbGxlciRkZWZhdWx0JDJzcQB+AAusGKsVdAAFY2xvbmVzcQB+AAvC0MXHdAAManNvbkZvcm1hdDEwc3EAfgALy910gnQAC2pzb25Gb3JtYXQwc3EAfgAL/67jVnQAC0h0dHBTZXJ2aWNlc3EAfgALwBSLKHQADGpzb25Gb3JtYXQyMnNxAH4AC6EvrUx0AAxPcHRpb25Gb3JtYXRzcQB+AAuve3zsdAAManNvbkZvcm1hdDE4c3EAfgALMRPFaXQABiRpbml0JHNxAH4AC91aZkV0ACZzcHJheUpzb25NYXJzaGFsbGVyQ29udmVydGVyJGRlZmF1bHQkMnNxAH4AC3+UCxZ0AAh0b1N0cmluZ3NxAH4AC8M65/B0AARhcmdzc3EAfgALIR5NBXQACmpzb25Gb3JtYXRzcQB+AAs4i+5fdAACIT1zcQB+AAsm3kKjdAALanNvbkZvcm1hdDhzcQB+AAvN4usbdAAFcm91dGVzcQB+AAtOfshadAAIZ2V0Q2xhc3NzcQB+AAvWRI+QdAACbmVzcQB+AAtPUkDSdAAEbGlmdHNxAH4ACxgvUnp0AAtqc29uRm9ybWF0M3NxAH4AC65a6iZ0AAJlcXNxAH4AC5PF9tp0AAV3cml0ZXNxAH4AC8AZnF10AApzYWZlUmVhZGVyc3EAfgALCuiVhnQAC2RlbGF5ZWRJbml0c3EAfgALj+zNGXQAAiMjc3EAfgALq7yOzXQABGxpc3RzcQB+AAt1CK75dAAIZmluYWxpemVzcQB+AAvLELIgdAAIaGFzaENvZGVzcQB+AAsRuqaqdAARZXh0cmFjdEZpZWxkTmFtZXNzcQB+AAtEQH16dAAManNvbkZvcm1hdDE3c3EAfgALHMLXqXQAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BE3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAH2NvbS5rbm9sZHVzLnNlcnZpY2UuSHR0cFNlcnZpY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AS0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ARNMAAlpbmhlcml0ZWRxAH4BE0wAB3BhcmVudHNxAH4BE3hxAH4BNHNxAH4BLQF1cQB+AQ4AAAAAcHNxAH4BLQF1cQB+AQ4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ARRxAH4BHXVxAH4BHgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AT54cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BM3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFYc3EAfgEgAHEAfgC7dXEAfgEjAAAAAHNxAH4BS3QABFVuaXRxAH4BUXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AT54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ASZ0AAVQbGFpbnEAfgDjc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgFMWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgEzc3EAfgFLdAAFQXJyYXlxAH4BUXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgFLdAAGU3RyaW5nc3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3QABGphdmFzcQB+AVd0AARsYW5ncQB+AVxwc3EAfgEtAXVxAH4BcwAAABBzcQB+AUt0AAhGYWtlUmVwb3NxAH4BT3NxAH4BUnVxAH4BVQAAAARzcQB+AVd0AANjb21zcQB+AVd0AAdrbm9sZHVzc3EAfgFXdAAHc2VydmljZXEAfgFcc3EAfgFLdAARU3R1ZGVudFJlcG9zaXRvcnlzcQB+AU9zcQB+AVJ1cQB+AVUAAAAFc3EAfgFXdAADY29tc3EAfgFXdAAHa25vbGR1c3NxAH4BV3QABHJlcG9zcQB+AVd0AARyZXBvcQB+AVxzcQB+AUt0AAZSb3V0ZXNxAH4BgnNxAH4BS3QAC0NPUlNTdXBwb3J0cQB+AYJzcQB+AUt0ABNEZWZhdWx0SnNvblByb3RvY29sc3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3QABXNwcmF5c3EAfgFXdAAEanNvbnEAfgFcc3EAfgFLdAARQWRkaXRpb25hbEZvcm1hdHNxAH4BnnNxAH4BS3QADlByb2R1Y3RGb3JtYXRzcQB+AZ5zcQB+AUt0ABdQcm9kdWN0Rm9ybWF0c0luc3RhbmNlc3EAfgGec3EAfgFLdAARQ29sbGVjdGlvbkZvcm1hdHNxAH4BnnNxAH4BS3QAD1N0YW5kYXJkRm9ybWF0c3EAfgGec3EAfgFLdAAMQmFzaWNGb3JtYXRzcQB+AZ5zcQB+AUt0ABBTcHJheUpzb25TdXBwb3J0c3EAfgFPc3EAfgFSdXEAfgFVAAAABnNxAH4BV3QABGFra2FzcQB+AVd0AARodHRwc3EAfgFXdAAIc2NhbGFkc2xzcQB+AVd0AAttYXJzaGFsbGVyc3NxAH4BV3QACXNwcmF5anNvbnEAfgFcc3EAfgFLdAADQXBwcQB+AVFzcQB+AUt0AAtEZWxheWVkSW5pdHEAfgFRc3EAfgFLdAAGT2JqZWN0cQB+AXdzcQB+AUt0AANBbnlxAH4BUXBwc3EAfgEQcQB+AR11cQB+AR4AAAAAc3EAfgEgAXQAHGNvbS5rbm9sZHVzLnNlcnZpY2UuRmFrZVJlcG91cQB+ASMAAAAAfnEAfgEldAAFVHJhaXR1cQB+ASkAAAAAc3EAfgEtAXEAfgE1cHNxAH4BLQFzcQB+ATdzcQB+AS0BdXEAfgEOAAAAAHBzcQB+AS0BdXEAfgEOAAAAAHBzcQB+AS0BdXEAfgFzAAAAA3NxAH4BS3QAEVN0dWRlbnRSZXBvc2l0b3J5c3EAfgFPc3EAfgFSdXEAfgFVAAAABXNxAH4BV3QAA2NvbXNxAH4BV3QAB2tub2xkdXNzcQB+AVd0AARyZXBvc3EAfgFXdAAEcmVwb3EAfgFcc3EAfgFLcQB+AcVzcQB+AU9zcQB+AVJ1cQB+AVUAAAADc3EAfgFXcQB+AXtzcQB+AVdxAH4BfXEAfgFcc3EAfgFLcQB+AcdzcQB+AU9zcQB+AVJ1cQB+AVUAAAACc3EAfgFXcQB+AVpxAH4BXHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAATY29tLmtub2xkdXMuc2VydmljZXNxAH4B83QAA2NvbXNxAH4B83QAC2NvbS5rbm9sZHVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTMUlst3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADcvaG9tZS9ha2FzaC9NaXggRGF0YS9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqa3kusyeV3l5WV+1TIlxQDKAPYE=
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDrVb4pAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwz8j1N3QADlVuaXRKc29uRm9ybWF0c3EAfgALttSNenQAHnNwcmF5SnNvblVubWFyc2hhbGxlckNvbnZlcnRlcnNxAH4AC0SuU/50AApsaXN0Rm9ybWF0c3EAfgALx6plsHQAGHNwcmF5SnNWYWx1ZVVubWFyc2hhbGxlcnNxAH4AC8UblSp0AAx2ZWN0b3JGb3JtYXRzcQB+AAsOYNjFdAASUm9vdEpzT2JqZWN0Rm9ybWF0c3EAfgAL+zxh6nQAEUJvb2xlYW5Kc29uRm9ybWF0c3EAfgALRSh/M3QADXN0dWRlbnRGb3JtYXRzcQB+AAvvnBpKdAAJc2V0Rm9ybWF0c3EAfgAL7eMwuXQAEVJvb3RKc0FycmF5Rm9ybWF0c3EAfgALfLx2cHQAFXNwcmF5SnNvblVubWFyc2hhbGxlcnNxAH4AC0CRiAp0AA1Kc1ZhbHVlRm9ybWF0c3EAfgALax9s23QADkxvbmdKc29uRm9ybWF0c3EAfgALAZE6UnQADHR1cGxlMUZvcm1hdHNxAH4AC87n5xl0ABBpbmRleGVkU2VxRm9ybWF0c3EAfgALrr+BOXQADG9wdGlvbkZvcm1hdHNxAH4AC3fEMfZ0AA9saW5lYXJTZXFGb3JtYXRzcQB+AAuHib34dAAQU3ltYm9sSnNvbkZvcm1hdHNxAH4ACyezw450ABxzcHJheUpzb25NYXJzaGFsbGVyQ29udmVydGVyc3EAfgALT9IhonQADHR1cGxlNUZvcm1hdHNxAH4AC9jCq6d0AAx0dXBsZTNGb3JtYXRzcQB+AAs4vMWUdAASaW1tTGluZWFyU2VxRm9ybWF0c3EAfgALpchWx3QADHR1cGxlN0Zvcm1hdHNxAH4AC6rl8ZZ0ABNzcHJheUpzb25NYXJzaGFsbGVyc3EAfgAL3zejb3QAFnNwcmF5SnNWYWx1ZU1hcnNoYWxsZXJzcQB+AAtbZwD7dAAMaW1tU2V0Rm9ybWF0c3EAfgALBiH0D3QADGVpdGhlckZvcm1hdHNxAH4AC3/C0Tl0AA5DaGFySnNvbkZvcm1hdHNxAH4AC7uZco50ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4AC5Qtgb90AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAtLIWy1dAAMdHVwbGU2Rm9ybWF0c3EAfgALy3Vu8nQAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAtxbOlmdAALYXJyYXlGb3JtYXRzcQB+AAueBJSzdAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAsOsoPXdAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAvyEMOodAAMdHVwbGUyRm9ybWF0c3EAfgALsCzKmnQAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAs4zcgxdAAMaW1tU2VxRm9ybWF0c3EAfgALmuLPtHQADHR1cGxlNEZvcm1hdHNxAH4AC2T7bpJ0AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAsf7o/KdAAOaXRlcmFibGVGb3JtYXRzcQB+AAuSZvbddAANSW50SnNvbkZvcm1hdHNxAH4AC9fn9ph0ABBEb3VibGVKc29uRm9ybWF0c3EAfgALOvYDanQACW1hcEZvcm1hdHNxAH4AC/xRL6J0AAlzZXFGb3JtYXRzcQB+AAvJO/zodAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAERzcQB+AAtjLL9KdAAGbm90aWZ5c3EAfgAL3PZjWHQABHJlYWRzcQB+AAvigXTEdAAJZnJvbUZpZWxkc3EAfgALBl8QaHQAC2pzb25Gb3JtYXQ5c3EAfgALHpAUWHQADGpzb25Gb3JtYXQxNnNxAH4AC/3vtXt0AAxqc29uRm9ybWF0MjBzcQB+AAv+KL4KdAAEd2FpdHNxAH4AC5PRbb10AAZ2aWFTZXFzcQB+AAsF8s0/dAAKbGF6eUZvcm1hdHNxAH4ACxd37EV0AA0kYXNJbnN0YW5jZU9mc3EAfgALX6xWO3QADGpzb25Gb3JtYXQxMnNxAH4ACwFk1Md0AAxqc29uRm9ybWF0MTNzcQB+AAsoUTOrdAALanNvbkZvcm1hdDJzcQB+AAvbrafadAAGZXF1YWxzc3EAfgALMQGhInQAC2pzb25Gb3JtYXQ2c3EAfgALWaYk4nQAIHNwcmF5SnNWYWx1ZU1hcnNoYWxsZXIkZGVmYXVsdCQxc3EAfgALKx1k93QADGFzSW5zdGFuY2VPZnNxAH4AC4DBpyJ0AAxqc29uRm9ybWF0MTVzcQB+AAuBldFkdAACSkZzcQB+AAuREWIRdAAMc3luY2hyb25pemVkc3EAfgALXccJBHQAE2FsbG93ZWRPcmlnaW5IZWFkZXJzcQB+AAt1Ayx6dAAManNvbkZvcm1hdDExc3EAfgALwbksSHQADSRpc0luc3RhbmNlT2ZzcQB+AAvxaLzYdAALanNvbkZvcm1hdDVzcQB+AAtBWMtvdAAManNvbkZvcm1hdDIxc3EAfgALN1KqtnQAFHByb2R1Y3RFbGVtZW50MkZpZWxkc3EAfgALKHQFq3QACnJvb3RGb3JtYXRzcQB+AAs+annJdAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgALyr01zHQADGpzb25Gb3JtYXQxNHNxAH4AC5T6LPl0AAtjb3JzSGFuZGxlcnNxAH4AC1fmrHF0AAtqc29uRm9ybWF0MXNxAH4AC8ecNA10AA5yb290SnNvbkZvcm1hdHNxAH4AC9kiNH10AAxqc29uRm9ybWF0MTlzcQB+AAtFwoDddAAJbm90aWZ5QWxsc3EAfgALGd8I0nQACGRlbGVnYXRlc3EAfgALSBXzAHQADGlzSW5zdGFuY2VPZnNxAH4ACw8RPhh0AAY8aW5pdD5zcQB+AAvLambBdAAIcmVhZFNvbWVzcQB+AAvDSlORdAALanNvbkZvcm1hdDRzcQB+AAuY/m1wdAACPT1zcQB+AAup37ZfdAAdc3ByYXlKc29uTWFyc2hhbGxlciRkZWZhdWx0JDJzcQB+AAumfUB9dAAFY2xvbmVzcQB+AAuDZy71dAAManNvbkZvcm1hdDEwc3EAfgAL/SFjSHQAC2pzb25Gb3JtYXQwc3EAfgALEyoXu3QADGpzb25Gb3JtYXQyMnNxAH4AC8Mt8EZ0AAxPcHRpb25Gb3JtYXRzcQB+AAvKkqbldAAManNvbkZvcm1hdDE4c3EAfgAL9mZa2nQABiRpbml0JHNxAH4AC/RpoAF0AAZSb3V0ZXNzcQB+AAu8Ho5kdAAmc3ByYXlKc29uTWFyc2hhbGxlckNvbnZlcnRlciRkZWZhdWx0JDJzcQB+AAtpgiBAdAAIdG9TdHJpbmdzcQB+AAtdZcV4dAAKanNvbkZvcm1hdHNxAH4AC8452hx0AAIhPXNxAH4AC5VDNzd0AAtqc29uRm9ybWF0OHNxAH4ACy1F9gx0AAVyb3V0ZXNxAH4AC0mqFhZ0AAhnZXRDbGFzc3NxAH4AC/hY2aR0AAJuZXNxAH4AC+maxrB0AARsaWZ0c3EAfgAL25LCTHQAC2pzb25Gb3JtYXQzc3EAfgALYtO9XXQAAmVxc3EAfgALN6DeVXQABXdyaXRlc3EAfgALiWhnEnQACnNhZmVSZWFkZXJzcQB+AAtsAirJdAACIyNzcQB+AAt4EXTvdAAIZmluYWxpemVzcQB+AAvztgPJdAAIaGFzaENvZGVzcQB+AAsMGajLdAARZXh0cmFjdEZpZWxkTmFtZXNzcQB+AAv26Al0dAAManNvbkZvcm1hdDE3c3EAfgALiDfPxnQAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A+3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQAGmNvbS5rbm9sZHVzLnNlcnZpY2UuUm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+ARMBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+APtMAAlpbmhlcml0ZWRxAH4A+0wAB3BhcmVudHNxAH4A+3hxAH4BGnNxAH4BEwF1cQB+APYAAAAAcHNxAH4BEwF1cQB+APYAAAAAcHNxAH4BEwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAC3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ARl0AAtDT1JTU3VwcG9ydHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BGXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADY29tc3EAfgEydAAHa25vbGR1c3NxAH4BMnQAB3NlcnZpY2VzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BM3NxAH4BJnQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+ASpzcQB+AS11cQB+ATAAAAADc3EAfgEydAAFc3ByYXlzcQB+ATJ0AARqc29ucQB+ATtzcQB+ASZ0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgE+c3EAfgEmdAAOUHJvZHVjdEZvcm1hdHNxAH4BPnNxAH4BJnQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AT5zcQB+ASZ0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgE+c3EAfgEmdAAPU3RhbmRhcmRGb3JtYXRzcQB+AT5zcQB+ASZ0AAxCYXNpY0Zvcm1hdHNxAH4BPnNxAH4BJnQAEFNwcmF5SnNvblN1cHBvcnRzcQB+ASpzcQB+AS11cQB+ATAAAAAGc3EAfgEydAAEYWtrYXNxAH4BMnQABGh0dHBzcQB+ATJ0AAhzY2FsYWRzbHNxAH4BMnQAC21hcnNoYWxsZXJzc3EAfgEydAAJc3ByYXlqc29ucQB+ATtzcQB+ASZ0AAZPYmplY3RzcQB+ASpzcQB+AS11cQB+ATAAAAADc3EAfgEydAAEamF2YXNxAH4BMnQABGxhbmdxAH4BO3NxAH4BJnQAA0FueXNxAH4BKnNxAH4BLXVxAH4BMAAAAAJzcQB+ATJ0AAVzY2FsYXEAfgE7cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABNjb20ua25vbGR1cy5zZXJ2aWNlc3EAfgFydAADY29tc3EAfgFydAALY29tLmtub2xkdXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVMeGtT+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQANy9ob21lL2FrYXNoL01peCBEYXRhL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABREadSIt4uZPlnJ5d+COItCDyP9TA==
+external apis:
+0 items
+source infos:
+6 items
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentOperation.scala -> 
+AAAAAAAAAAA=
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/repo/repo/StudentRepository.scala -> 
+AAAAAAAAAAA=
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/CORSSupport.scala -> 
+AAAAAAAAAAA=
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/ConnectToDatabase.scala -> 
+AAAAAAAAAAA=
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/HttpService.scala -> 
+AAAAAAAAAAA=
+/home/akash/Mix Data/rest-api/src/main/scala/com/knoldus/service/Routes.scala -> 
+AAAAAAAAAAA=
+compilations:
+22 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvjXXLV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3NhdGVuZHJhL2RlY29vZGEvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvkZogR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3NhdGVuZHJhL2RlY29vZGEvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvkdLnx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3NhdGVuZHJhL2RlY29vZGEvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvkmo8F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvkqNZ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUv3z+Xl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUv4SPOp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwPfuUt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwPhWY51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwPjGrx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwPkQXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwPlvjx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwTIcOR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwTMc7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwgnur91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwx2XXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwx5YVF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwyJ6sB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwyRiu11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2FrYXNoL0Rlc2t0b3AvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUxv4yYx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL2FrYXNoL01peCBEYXRhL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUx4a1P51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL2FrYXNoL01peCBEYXRhL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUzFJbLd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL2FrYXNoL01peCBEYXRhL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
